@@ -6,13 +6,42 @@ body{
     color:rgb(51,51,51);
     text-align: center;
 }
+h1{
+    font-size: 36px;
+    padding-top: 20px;
+}
+h2{
+    font-size: 17px;
+    padding: 30px;
+}
+ul{
+    text-align: left;
+    padding-left: 35%;
+    padding-right: 35%;
+    line-height: 23px;
+}
+li{
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+article p{
+    text-align: left;
+    padding-left: 35%;
+    padding-right: 35%;
+    font-size: 15px;
+    font-style: italic;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 
 #img-div{
     margin: 20px 10px 10px 10px;
     background-color: white;
 }
-#img-div p{
-    padding-bottom: 10px;
+#img-caption{
+    padding-bottom: 13px;
+    font-size: 14.5px;
+    margin: 15px 0 5px 0;
 }
 #image{
     width:100%;
@@ -21,4 +50,8 @@ body{
     margin-left: auto;
     margin-right: auto;
     display: block;
+}
+#link{
+    font-weight: bold;
+    padding-bottom: 30px;
 }
