@@ -14,3 +14,11 @@ body{
 #img-div p{
     padding-bottom: 10px;
 }
+#image{
+    width:100%;
+    max-width: 1024px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
